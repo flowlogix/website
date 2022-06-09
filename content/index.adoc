@@ -1,6 +1,6 @@
-= Lenny Primak & Flow Logix, Inc.
+= Flow Logix, Inc.
 :jbake-type: page
-:description: About me
+:description: About the Company
 :idprefix:
 :linkattrs:
 :jbake-status: published
