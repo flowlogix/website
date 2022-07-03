@@ -5,8 +5,6 @@
 :linkattrs:
 :jbake-status: published
 
-Flow Logix is the corporate arm for https://hope.nyc.ny.us[Lenny Primak]
-
 We utilize Jakarta EE technology to solve business problems quickly and sustainably.
 
 Our biggest strength is distributed, real-time highly scalable systems.
@@ -17,3 +15,5 @@ We specialize in IT Consulting services for the following verticals:
 - Aviation
 
 Flow Logix is an innovator and it may be an umbrella for any products that are incubating in the pipeline.
+
+Currently, the Company functions as the corporate arm for https://hope.nyc.ny.us[Lenny Primak]
