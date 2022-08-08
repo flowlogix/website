@@ -14,6 +14,10 @@ We specialize in IT Consulting services for the following verticals:
 - Transportation / Logistics
 - Aviation
 
+++++
+<iframe src="https://github.com/sponsors/flowlogix/button" title="Sponsor FlowLogix" height="35" width="116" style="border: 0;"></iframe>
+++++
+
 Flow Logix is an innovator and it may be an umbrella for any products that are incubating in the pipeline.
 
 Currently, the Company functions as the corporate entity for https://hope.nyc.ny.us[Lenny Primak]
