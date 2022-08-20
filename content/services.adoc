@@ -14,6 +14,7 @@ https://patft1.uspto.gov/netacgi/nph-Parser?patentnumber=6598077[Patent 6,598,07
 https://patft1.uspto.gov/netacgi/nph-Parser?patentnumber=7443311[Patent 7,443,311 - Chair mounted system for control based on use of chair^]
 
 == Open Source Contributions
+- https://github.com/flowlogix/flowlogix[Flow Logix Utility Library^]
 - https://payara.fish[Payara^]
 - https://hazelcast.com/dev-community/heroes/[Hazelcast Hero^]
 - OpenSSL
