@@ -30,7 +30,7 @@ Having seen many iterations of technologies and common problems, we are able to 
 Our expertise and tenacity gives us unique ability to drive the project to a successful completion,
 and overcome many problems quickly and easily along the way.
 
-== Flow Logix is an industry innovator and is constantly developing new products and services.
+Flow Logix is an industry innovator and is constantly developing new products and services.
 
 == Flow Logix is contributing to many Open Source projects
 ++++
