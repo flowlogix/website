@@ -5,13 +5,14 @@
 :linkattrs:
 :jbake-status: published
 
-== Flow Logix is an informatino technology consulting firm.
+== Flow Logix is an information technology consulting firm
 We help solve difficult problems with technology. +
 At Flow Logix, we develop software-based solutions for fast-moving businesses.
 Utilizing Jakarta EE technology, our process is quick and our solutions are built for
 maintainability and performance, thus minimizing overall costs.
 
 Excelling in distributed, real-time, scalable systems, we specialize in IT consulting services for the following verticals:
+
 - Transportation / Logistics
 - Aviation
 
@@ -29,10 +30,11 @@ Having seen many iterations of technologies and common problems, we are able to 
 Our expertise and tenacity gives us unique ability to drive the project to a successful completion,
 and overcome many problems quickly and easily along the way.
 
+== Flow Logix is an industry innovator and is constantly developing new products and services.
+
+== Flow Logix is contributing to many Open Source projects
 ++++
 <iframe src="https://github.com/sponsors/flowlogix/button" title="Sponsor FlowLogix" height="35" width="116" style="border: 0;"></iframe>
 ++++
-
-Flow Logix is an industry innovator and is constantly developing new products and services.
 
 Currently, the Company also functions as the corporate entity for https://hope.nyc.ny.us[Lenny Primak]
