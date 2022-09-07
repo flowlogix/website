@@ -5,19 +5,34 @@
 :linkattrs:
 :jbake-status: published
 
-We utilize Jakarta EE technology to solve business problems quickly and sustainably.
+== Flow Logix is an informatino technology consulting firm.
+We help solve difficult problems with technology. +
+At Flow Logix, we develop software-based solutions for fast-moving businesses.
+Utilizing Jakarta EE technology, our process is quick and our solutions are built for
+maintainability and performance, thus minimizing overall costs.
+
+Excelling in distributed, real-time, scalable systems, we specialize in IT consulting services for the following verticals:
+- Transportation / Logistics
+- Aviation
 
 Our biggest strength is distributed, real-time highly scalable systems.
 
-We specialize in IT Consulting services for the following verticals:
+== Our Process
+Start providing identification of the true problem space, and provide a great design solution for it. +
+Quickly turn the abstract problem into actionable to-do list. +
+We get the project through to completion from design to execution to maintenance.
 
-- Transportation / Logistics
-- Aviation
+== What makes us different
+We have the right kind of diverse experience to be able to identify root cause of many issues.+
+Having seen many iterations of technologies and common problems, we are able to to solve them quickly.
+
+Our expertise and tenacity gives us unique ability to drive the project to a successful completion,
+and overcome many problems quickly and easily along the way.
 
 ++++
 <iframe src="https://github.com/sponsors/flowlogix/button" title="Sponsor FlowLogix" height="35" width="116" style="border: 0;"></iframe>
 ++++
 
-Flow Logix is an innovator and it may be an umbrella for any products that are incubating in the pipeline.
+Flow Logix is an industry innovator and is constantly developing new products and services.
 
-Currently, the Company functions as the corporate entity for https://hope.nyc.ny.us[Lenny Primak]
+Currently, the Company also functions as the corporate entity for https://hope.nyc.ny.us[Lenny Primak]
