@@ -12,6 +12,7 @@ maintainability and performance, thus minimizing overall costs.
 We excel at developing distributed, real-time highly scalable systems.
 
 We specialize in IT consulting services for the following industries:
+
 - Transportation / Logistics
 - Financial Services
 - Aviation
