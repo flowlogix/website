@@ -5,30 +5,30 @@
 :linkattrs:
 :jbake-status: published
 
-== Flow Logix is an information technology consulting firm
-We help solve difficult problems with technology. +
+== Flow Logix - an Information Technology Consulting Firm
 At Flow Logix, we develop software-based solutions for fast-moving businesses.
 Utilizing Jakarta EE technology, our process is quick and our solutions are built for
 maintainability and performance, thus minimizing overall costs.
+We excel at developing distributed, real-time highly scalable systems.
 
-Excelling in distributed, real-time, scalable systems, we specialize in IT consulting services for the following verticals:
-
+We specialize in IT consulting services for the following industries:
 - Transportation / Logistics
+- Financial Services
 - Aviation
 
-Our biggest strength is distributed, real-time highly scalable systems.
-
 == Our Process
-Start providing identification of the true problem space, and provide a great design solution for it. +
-Quickly turn the abstract problem into actionable to-do list. +
-We get the project through to completion from design to execution to maintenance.
+We start by analyzing each client’s challenges. We drill down to discover root problems,
+and define the parameters of each in order to create an executable strategy.
+Abstract problems can quickly be turned into an actionable to-do list.
+We see all projects through to completion- from design, to execution, to maintenance. 
+
+Additionally, Flow Logix is an industry innovator and is constantly developing new products and services.
 
 == What makes us different
-We have the right kind of diverse experience to be able to identify root cause of many issues.+
-Having seen many iterations of technologies and common problems, we are able to to solve them quickly.
+We have the experience to identify root causes of many issues.
+Having seen many iterations of technologies and common problems, we are able to solve them efficiently.
 
-Our expertise and tenacity gives us unique ability to drive the project to a successful completion,
-and overcome many problems quickly and easily along the way.
+Our expertise and tenacity gives us a unique ability to develop creative solutions- even for complex projects.
 
 Flow Logix is an industry innovator and is constantly developing new products and services.
 
@@ -37,4 +37,4 @@ Flow Logix is an industry innovator and is constantly developing new products an
 <iframe src="https://github.com/sponsors/flowlogix/button" title="Sponsor FlowLogix" height="35" width="116" style="border: 0;"></iframe>
 ++++
 
-Currently, the Company also functions as the corporate entity for https://hope.nyc.ny.us[Lenny Primak]
+The Company also functions as https://hope.nyc.ny.us[Lenny Primak's] corporate entity.
