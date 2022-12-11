@@ -37,5 +37,9 @@ Flow Logix is an industry innovator and is constantly developing new products an
 ++++
 <iframe src="https://github.com/sponsors/flowlogix/button" title="Sponsor FlowLogix" height="35" width="116" style="border: 0;"></iframe>
 ++++
+{zwsp} +
+
+== Read our blog
+https://sensibledev.tumblr.com[Sensible Development Blog^]
 
 The Company also functions as https://hope.nyc.ny.us[Lenny Primak's] corporate entity.
