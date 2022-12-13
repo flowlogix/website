@@ -41,6 +41,6 @@ Flow Logix is an industry innovator and is constantly developing new products an
 
 == Read our blog
 https://sensibledev.tumblr.com[Sensible Development Blog^] +
-https://medium.com/@lennyprimak[Medium Blog^]
+https://medium.com/@lprimak[Medium Blog^]
 
 The Company also functions as https://hope.nyc.ny.us[Lenny Primak's] corporate entity.
