@@ -6,6 +6,7 @@
 :jbake-status: published
 
 == Developer Links
+https://start.flowlogix.com[Jakarta EE Starter^] +
 https://github.com/flowlogix[FlowLogix GitHub Org^] +
 https://git.flowlogix.com[FlowLogix Git Repositories^] +
 https://jenkins.flowlogix.com[Jenkins build system^] +
