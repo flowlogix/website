@@ -8,6 +8,10 @@
 Specializing in solving difficult problems with real-time, high performance and distributed systems. +
 Highly experienced in Agile methodology, test-driven development, refactoring and complex debugging tasks.
 
+++++
+<a href="https://apps.flowlogix.com/c/contact" class="btn btn-primary btn-lg">Contact Flow Logix</a>
+++++
+
 == Patents
 https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/6389448[Patent 6,389,448 - System and method for Load Balancing^] +
 https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/6598077[Patent 6,598,077 - System and method for dynamic content routing^] +
