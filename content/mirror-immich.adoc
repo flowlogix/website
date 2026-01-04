@@ -1,0 +1,40 @@
+= Mirror Immich
+:jbake-type: page
+:description: Mirror-Immich macOS photos exporter with metadata
+:idprefix:
+:linkattrs:
+:jbake-status: published
+
+FlowLogix MirrorImmich extracts title, description, tags and album information created in Apple macOS Photos and creates a directory that includes symlinks to photos and their extracted metadata in sidecar .xmp files.
+
+This directory can then be rsync'd to Immich external library.
+
+== Features
+
+* Creates a directory structure to be used as an external library in Immich.
+* Exports titles, descriptions, and keywords.
+** _Note: Appends titles and descriptions, since Immich only has one description field._
+* Generates `.xmp` sidecar files.
+* Exports edited photos, if they are edited.
+* Creates albums in Immich based on Apple Photos albums.
+* Marks favorites in Immich based on Apple Photos favorites.
+
+== Screenshots
+Here is the configuration screen: +
+
+image:https://photos.flowlogix.com/api/assets/c6ac47ba-c5f9-4edb-bee3-770bad2b3c8f/thumbnail?key=D-1UluOb68QTV_CVIU4VJstM6b57BmP4gd-Nw01FMTodR_t-BvlLWqHI-osEWNRaIEA&size=preview&c=%2BvcFDIKwmpjKaYlxi5T5bEn6Wg%3D%3D[https://photos.hope.nyc.ny.us/share/D-1UluOb68QTV_CVIU4VJstM6b57BmP4gd-Nw01FMTodR_t-BvlLWqHI-osEWNRaIEA/photos/c6ac47ba-c5f9-4edb-bee3-770bad2b3c8f[Configuration Screen]
+
+Here is the result screen from a test run. As you can see, the results are read from the Photos SQLite database: +
+
+image:https://photos.flowlogix.com/api/assets/04b9e182-6236-4781-a117-fb901335154f/thumbnail?key=D-1UluOb68QTV_CVIU4VJstM6b57BmP4gd-Nw01FMTodR_t-BvlLWqHI-osEWNRaIEA&size=preview&c=%2FvcBA4BzMGeJVmaHcKZnCzk%3D[Result Screen, 100%]
+Example metadata transfer: +
+
+image:https://photos.flowlogix.com/api/assets/605b3d12-3726-4c26-afc0-6c5ad1cc9398/thumbnail?key=D-1UluOb68QTV_CVIU4VJstM6b57BmP4gd-Nw01FMTodR_t-BvlLWqHI-osEWNRaIEA&size=preview&c=NAgCBwBQiaqJd4Z8d%2BZ3Z3l0K2j7hK8D[Photos Info Panel]
+->
+image:https://photos.flowlogix.com/api/assets/f8e4b545-6897-490c-a8d0-81072ad405bd/thumbnail?key=D-1UluOb68QTV_CVIU4VJstM6b57BmP4gd-Nw01FMTodR_t-BvlLWqHI-osEWNRaIEA&size=preview&c=%2FfcBBgBwmqlHh0iXmGWHireJckAnB3Q%3D[Immich Result]
+image:https://photos.flowlogix.com/api/assets/3301dc0a-e89e-485c-a76e-c308660feb97/thumbnail?key=D-1UluOb68QTV_CVIU4VJstM6b57BmP4gd-Nw01FMTodR_t-BvlLWqHI-osEWNRaIEA&size=preview&c=%2BfcJDIKVeJiGd3eXd2Cyrn8IGA%3D%3D[Immich Tags]
+
+== MirrorImmich vs. Immich Go, PhotoSync, etc.
+There are existing solutions for uploading photos to Immich.
+However, none of those solutions access Apple macOS Photos internal database to extract metadata that was entered into Apple Photos on the Mac.
+All other solutions extract data from the metadata from the photo and video files themselves. Unfortunately that data is incomplete and does not include manually entered data in Apple Photos on the Mac.
