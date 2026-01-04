@@ -19,6 +19,10 @@ This directory can then be rsync'd to Immich external library.
 * Creates albums in Immich based on Apple Photos albums.
 * Marks favorites in Immich based on Apple Photos favorites.
 
+== GitHub Page
+Installation instructions are available on GitHub:
+https://github.com/flowlogix/mirror-immich[FlowLogix Mirror-Immich on GitHub^]
+
 == Screenshots
 Here is the configuration screen: +
 
