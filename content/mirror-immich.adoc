@@ -23,6 +23,10 @@ This directory can then be rsync'd to Immich external library.
 Installation instructions are available on GitHub:
 https://github.com/flowlogix/mirror-immich[FlowLogix Mirror-Immich on GitHub^]
 
+++++
+<iframe src="https://github.com/sponsors/flowlogix/button" title="Sponsor Flow Mirror-Immich" height="35" width="116" style="border: 0;"></iframe>
+++++
+
 == Screenshots
 Here is the configuration screen: +
 
