@@ -9,6 +9,8 @@ FlowLogix MirrorImmich extracts title, description, keywords / tags, GPS locatio
 
 This directory can then be rsync'd to Immich external library.
 
+image:img/mirror-immich.jpg[MirrorImmich Logo]
+
 == Features
 
 * Creates a directory structure to be used as an external library in Immich.
