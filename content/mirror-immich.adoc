@@ -1,6 +1,7 @@
 = Mirror Immich
 :jbake-type: page
 :description: Mirror-Immich macOS photos exporter with metadata
+:keywords: mirror-immich, immich, photos, macos, metadata, xmp, albums, favorites
 :idprefix:
 :linkattrs:
 :jbake-status: published

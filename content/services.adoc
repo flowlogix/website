@@ -1,6 +1,7 @@
 = Technology Services
 :jbake-type: page
 :description: Technology and Software Development
+:keywords: technology, software development, real-time systems, high performance systems, distributed systems, agile methodology, test-driven development, refactoring, debugging
 :idprefix:
 :linkattrs:
 :jbake-status: published

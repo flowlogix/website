@@ -1,6 +1,7 @@
 = Developer Portal
 :jbake-type: page
 :description: Developers Home Page
+:keywords: developers, developer portal, flowlogix developers, idp, internal developer portal
 :idprefix:
 :linkattrs:
 :jbake-status: published
