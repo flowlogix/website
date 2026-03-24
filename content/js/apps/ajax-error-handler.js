@@ -25,4 +25,6 @@ function handleAjaxError(event, xhr, settings, error) {
     }, 5_000);
 }
 
-$(document).on('pfAjaxError', handleAjaxError)
+if (typeof $ !== 'undefined') {
+    $(document).on('pfAjaxError', handleAjaxError)
+}
