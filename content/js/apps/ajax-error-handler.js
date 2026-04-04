@@ -26,5 +26,6 @@ function handleAjaxError(event, xhr, settings, error) {
 }
 
 if (typeof $ !== 'undefined') {
+    $(document).off('pfAjaxError')
     $(document).on('pfAjaxError', handleAjaxError)
 }
