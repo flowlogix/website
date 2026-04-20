@@ -22,6 +22,12 @@ image:img/mirror-immich.jpg[MirrorImmich Logo, 400px, align=center]
 * Creates albums in Immich based on Apple Photos albums.
 * Marks favorites in Immich based on Apple Photos favorites.
 
+== Please Support This Project
+If you find Mirror Immich useful, please consider supporting it on https://github.com/sponsors/flowlogix[GitHub Sponsors] as it will help dedicate more time to it and add more features.
+
+== News
+* Apr 19, 2026: Memory requirements are significantly reduced by processing photos in batches. This allows processing of large libraries on machines with limited memory. See https://github.com/flowlogix/mirror-immich/issues/16[Issue #16] for details.
+
 == Installation
 Docker Compose is the recommended installation method.
 
@@ -38,13 +44,16 @@ with the following variables:
 IMMICH_API_URL=https://my.immich.instance
 IMMICH_API_KEY=<my_immich_api_key>
 
-# Optional: set maximum memory heap size (default is 512m)
-# MAX_HEAP_SIZE=2g
+# Optional: set batch size for processing photos (default is 1000)
+# PHOTOS_BATCH_SIZE=1000
 
 # Override default photos library location and names if needed
 # PICTURES_DIRECTORY=${HOME}/Pictures
 # PHOTOS_LIBRARY_NAME=Photos Library
 # EXTRACTED_PHOTOS_NAME=extracted-photos
+
+# Optional: set maximum memory heap size (default is 512m)
+# MAX_HEAP_SIZE=2g
 ----
 
 == Installation Notes
